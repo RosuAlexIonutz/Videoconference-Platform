@@ -139,7 +139,7 @@ class SettingsApp:
         return cv2.cvtColor(gray_frame, cv2.COLOR_GRAY2BGR)
 
 class WebcamApp:
-    def __init__(self, master, settings, username, server_address='192.168.100.3', server_port=5000):
+    def __init__(self, master, settings, username, server_address='YOUR IP', server_port=5000):
         self.master = master
         self.settings = settings
         self.username = username
