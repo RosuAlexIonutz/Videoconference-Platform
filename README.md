@@ -1,4 +1,5 @@
 Video Conference Application
+
 Overview
 This project implements a video conferencing application using Python. It includes a client-side GUI (App.py) and a server component (Server.py) to manage video and audio streaming, along with chat functionalities between users.
 
